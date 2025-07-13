@@ -7,3 +7,4 @@ second <- function(x) {
 	x + rnorm(length(x))
 }
 
+qinjialin <- 4640
